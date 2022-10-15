@@ -1,4 +1,4 @@
-# Python-projects
+# Vwap backtest on option data in NSE
 * Pass futures and option data through time_edit.py if the data is shifted
 * Then pass Futures data through Data_convert.py and options data throughData_convert_options.py
 * Some data may have need some cleaning and editing, under these circumstances use symbol_edit.py and remove_data.py
